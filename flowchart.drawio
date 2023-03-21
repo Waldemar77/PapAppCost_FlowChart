@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T00:52:32.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="ZblL55hybV69r6mhPim9" version="21.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-21T02:35:53.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="nrCS3rzcqoRUu5ruy2Bk" version="21.0.8" type="github" pages="5">
   <diagram id="xuLESB8KUCdiTQhr_Vs3" name="SoftwareArquitecture">
     <mxGraphModel dx="1373" dy="774" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -330,7 +330,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Income Records" id="B6uBWJnoyqyOHu_1orQt">
+  <diagram name="Calculates" id="B6uBWJnoyqyOHu_1orQt">
     <mxGraphModel dx="1373" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="r5LVmT99o6ja2aj9zQT4-0" />
@@ -477,94 +477,94 @@
       <root>
         <mxCell id="_GKAVSp3uWmo5e1nH3a0-0" />
         <mxCell id="_GKAVSp3uWmo5e1nH3a0-1" parent="_GKAVSp3uWmo5e1nH3a0-0" />
-        <mxCell id="_GKAVSp3uWmo5e1nH3a0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_GKAVSp3uWmo5e1nH3a0-1" source="_GKAVSp3uWmo5e1nH3a0-3" target="_GKAVSp3uWmo5e1nH3a0-40">
+        <mxCell id="_GKAVSp3uWmo5e1nH3a0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="_GKAVSp3uWmo5e1nH3a0-1" source="_GKAVSp3uWmo5e1nH3a0-3" target="_GKAVSp3uWmo5e1nH3a0-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_GKAVSp3uWmo5e1nH3a0-3" value="Página Principal del usuario" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="_GKAVSp3uWmo5e1nH3a0-3" value="Página Principal del usuario" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="460" y="27.5" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_GKAVSp3uWmo5e1nH3a0-4" value="Vista Home para Usuario conectado" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="_GKAVSp3uWmo5e1nH3a0-4" value="Vista Home para Usuario conectado" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="590" y="27.5" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_GKAVSp3uWmo5e1nH3a0-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="_GKAVSp3uWmo5e1nH3a0-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="560" y="15" width="50" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="_GKAVSp3uWmo5e1nH3a0-6" value="&lt;h1&gt;Diagrama de Flujo: Reportes&lt;/h1&gt;&lt;p&gt;Este diagrama de flujo representa el flujo que debe seguir un usuario para visualizar reportes de ventas, costos y rentabilidad.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="_GKAVSp3uWmo5e1nH3a0-6" value="&lt;h1&gt;Diagrama de Flujo: Reportes&lt;/h1&gt;&lt;p&gt;Este diagrama de flujo representa el flujo que debe seguir un usuario para visualizar los reportes relacionados con los costos.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="10" y="10" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_GKAVSp3uWmo5e1nH3a0-1" source="_GKAVSp3uWmo5e1nH3a0-10" target="_GKAVSp3uWmo5e1nH3a0-21">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_GKAVSp3uWmo5e1nH3a0-1" source="_GKAVSp3uWmo5e1nH3a0-10" target="_GKAVSp3uWmo5e1nH3a0-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_GKAVSp3uWmo5e1nH3a0-10" value="Fin del Flujo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="_GKAVSp3uWmo5e1nH3a0-10" value="Fin del Flujo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="460" y="722.5" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_GKAVSp3uWmo5e1nH3a0-20" value="Vista Home para Usuario conectado" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="_GKAVSp3uWmo5e1nH3a0-20" value="Vista Home para Usuario conectado" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="650" y="702.5" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_GKAVSp3uWmo5e1nH3a0-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=0;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="_GKAVSp3uWmo5e1nH3a0-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=0;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="620" y="690" width="50" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="_GKAVSp3uWmo5e1nH3a0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_GKAVSp3uWmo5e1nH3a0-1" source="_GKAVSp3uWmo5e1nH3a0-40" target="AyyJI4Jf-q8bBNpcRT7y-0">
+        <mxCell id="_GKAVSp3uWmo5e1nH3a0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="_GKAVSp3uWmo5e1nH3a0-1" source="_GKAVSp3uWmo5e1nH3a0-40" target="AyyJI4Jf-q8bBNpcRT7y-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="185" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_GKAVSp3uWmo5e1nH3a0-1" source="_GKAVSp3uWmo5e1nH3a0-40" target="AyyJI4Jf-q8bBNpcRT7y-5">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="_GKAVSp3uWmo5e1nH3a0-1" source="_GKAVSp3uWmo5e1nH3a0-40" target="AyyJI4Jf-q8bBNpcRT7y-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_GKAVSp3uWmo5e1nH3a0-1" source="_GKAVSp3uWmo5e1nH3a0-40" target="AyyJI4Jf-q8bBNpcRT7y-6">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="_GKAVSp3uWmo5e1nH3a0-1" source="_GKAVSp3uWmo5e1nH3a0-40" target="AyyJI4Jf-q8bBNpcRT7y-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_GKAVSp3uWmo5e1nH3a0-40" value="Proceso para visualizar los reportes de ventas y costos&lt;br&gt;(accionar botón &quot;Reportes&quot;)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="_GKAVSp3uWmo5e1nH3a0-40" value="Proceso para visualizar los reportes de costos&lt;br&gt;(accionar botón &quot;Reportes Costos&quot;)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="420" y="160" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_GKAVSp3uWmo5e1nH3a0-1" source="AyyJI4Jf-q8bBNpcRT7y-0" target="AyyJI4Jf-q8bBNpcRT7y-8">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_GKAVSp3uWmo5e1nH3a0-1" source="AyyJI4Jf-q8bBNpcRT7y-0" target="AyyJI4Jf-q8bBNpcRT7y-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-0" value="Proceso para revisar solo reporte de ingresos&lt;br&gt;(gráfica últimos 5 cultivos)&lt;br&gt;Botón &quot;Ingresos&quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=default;gradientColor=none;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-0" value="Proceso para revisar solo reporte de ingresos&lt;br&gt;(gráfica últimos 5 cultivos)&lt;br&gt;Botón &quot;Ingresos&quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=default;gradientColor=none;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="100" y="350" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_GKAVSp3uWmo5e1nH3a0-1" source="AyyJI4Jf-q8bBNpcRT7y-5" target="AyyJI4Jf-q8bBNpcRT7y-10">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_GKAVSp3uWmo5e1nH3a0-1" source="AyyJI4Jf-q8bBNpcRT7y-5" target="AyyJI4Jf-q8bBNpcRT7y-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-5" value="Proceso para revisar solo reporte de costos&lt;br&gt;(tabla y gráfico comportamiento de categoría de costos)&lt;br&gt;Botón &quot;Costos&quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=default;gradientColor=none;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-5" value="Proceso para revisar solo reporte de costos&lt;br&gt;(tabla y gráfico comportamiento de categoría de costos)&lt;br&gt;Botón &quot;Costos&quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=default;gradientColor=none;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="430" y="350" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_GKAVSp3uWmo5e1nH3a0-1" source="AyyJI4Jf-q8bBNpcRT7y-6" target="AyyJI4Jf-q8bBNpcRT7y-12">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_GKAVSp3uWmo5e1nH3a0-1" source="AyyJI4Jf-q8bBNpcRT7y-6" target="AyyJI4Jf-q8bBNpcRT7y-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-6" value="Proceso para revisar solo reporte de rentabilidad&lt;br&gt;(tabla con resultados y gráfica comparando las rentabilidades de los últimos 5 cultivos)&lt;br&gt;Botón &quot;Rentabilidad&quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=default;gradientColor=none;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-6" value="Proceso para revisar solo reporte de rentabilidad&lt;br&gt;(tabla con resultados y gráfica comparando las rentabilidades de los últimos 5 cultivos)&lt;br&gt;Botón &quot;Rentabilidad&quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=default;gradientColor=none;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="795" y="350" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_GKAVSp3uWmo5e1nH3a0-1" source="AyyJI4Jf-q8bBNpcRT7y-7" target="_GKAVSp3uWmo5e1nH3a0-10">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_GKAVSp3uWmo5e1nH3a0-1" source="AyyJI4Jf-q8bBNpcRT7y-7" target="_GKAVSp3uWmo5e1nH3a0-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-7" value="Vista Reporte de Ventas" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-7" value="Vista Reporte de Ventas" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="140" y="520" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="155" y="450" width="50" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="485" y="450" width="50" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="850" y="450" width="50" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_GKAVSp3uWmo5e1nH3a0-1" source="AyyJI4Jf-q8bBNpcRT7y-13" target="_GKAVSp3uWmo5e1nH3a0-10">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_GKAVSp3uWmo5e1nH3a0-1" source="AyyJI4Jf-q8bBNpcRT7y-13" target="_GKAVSp3uWmo5e1nH3a0-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-13" value="Vista Reporte de Costos" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-13" value="Vista Reporte de Costos" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="470" y="520" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_GKAVSp3uWmo5e1nH3a0-1" source="AyyJI4Jf-q8bBNpcRT7y-14" target="_GKAVSp3uWmo5e1nH3a0-10">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_GKAVSp3uWmo5e1nH3a0-1" source="AyyJI4Jf-q8bBNpcRT7y-14" target="_GKAVSp3uWmo5e1nH3a0-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-14" value="Vista Reporte de Rentabilidad" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="_GKAVSp3uWmo5e1nH3a0-1">
+        <mxCell id="AyyJI4Jf-q8bBNpcRT7y-14" value="Vista Reporte de Rentabilidad" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="_GKAVSp3uWmo5e1nH3a0-1" vertex="1">
           <mxGeometry x="840" y="520" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
